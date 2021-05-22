@@ -21,6 +21,13 @@ class App:
 
     # Labels
 
+        res_label = tk.Label(root)
+        ft = tkFont.Font(family='Times', size=15)
+        res_label["font"] = ft
+        res_label["fg"] = "#000"
+        res_label["justify"] = "center"
+        self.res_label = res_label
+
         number_of_variables_label = tk.Label(root)
         ft = tkFont.Font(family='Times', size=18)
         number_of_variables_label["font"] = ft
@@ -243,6 +250,10 @@ class App:
             arr.append(Item(i, item.value.get(), item.weight.get()))
         Z, N = knapsack(arr, self.max_weight_entry.get())
         print("Max Z = ", Z)
+        self.res_label.grid_remove()
+        self.res_label.grid(row=6, column=5)
+        self.res_label["text"] = "Max Z = " + Z
+
         # vous devez installer graphviz pour lancer graph_it
         # do both:
         # https://graphviz.org/download/#windows

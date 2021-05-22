@@ -8,125 +8,125 @@
  viewBox="0.00 0.00 1251.65 305.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 301)">
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-301 1247.65,-301 1247.65,4 -4,4"/>
-<!-- 3cd77466&#45;bb12&#45;11eb&#45;9ef4&#45;40b89af7b7be -->
+<!-- b41e52a8&#45;bb14&#45;11eb&#45;b791&#45;40b89af7b7be -->
 <g id="node1" class="node">
-<title>3cd77466&#45;bb12&#45;11eb&#45;9ef4&#45;40b89af7b7be</title>
+<title>b41e52a8&#45;bb14&#45;11eb&#45;b791&#45;40b89af7b7be</title>
 <ellipse fill="none" stroke="black" cx="706.65" cy="-279" rx="39.79" ry="18"/>
 <text text-anchor="middle" x="706.65" y="-275.3" font-family="Times New Roman,serif" font-size="14.00">66500.0</text>
 </g>
-<!-- 3cd77467&#45;bb12&#45;11eb&#45;8241&#45;40b89af7b7be -->
+<!-- b41e52a9&#45;bb14&#45;11eb&#45;98ac&#45;40b89af7b7be -->
 <g id="node2" class="node">
-<title>3cd77467&#45;bb12&#45;11eb&#45;8241&#45;40b89af7b7be</title>
+<title>b41e52a9&#45;bb14&#45;11eb&#45;98ac&#45;40b89af7b7be</title>
 <ellipse fill="none" stroke="black" cx="409.65" cy="-192" rx="39.79" ry="18"/>
 <text text-anchor="middle" x="409.65" y="-188.3" font-family="Times New Roman,serif" font-size="14.00">66500.0</text>
 </g>
-<!-- 3cd77466&#45;bb12&#45;11eb&#45;9ef4&#45;40b89af7b7be&#45;&gt;3cd77467&#45;bb12&#45;11eb&#45;8241&#45;40b89af7b7be -->
+<!-- b41e52a8&#45;bb14&#45;11eb&#45;b791&#45;40b89af7b7be&#45;&gt;b41e52a9&#45;bb14&#45;11eb&#45;98ac&#45;40b89af7b7be -->
 <g id="edge1" class="edge">
-<title>3cd77466&#45;bb12&#45;11eb&#45;9ef4&#45;40b89af7b7be&#45;&gt;3cd77467&#45;bb12&#45;11eb&#45;8241&#45;40b89af7b7be</title>
+<title>b41e52a8&#45;bb14&#45;11eb&#45;b791&#45;40b89af7b7be&#45;&gt;b41e52a9&#45;bb14&#45;11eb&#45;98ac&#45;40b89af7b7be</title>
 <path fill="none" stroke="black" d="M667.42,-276.18C590.88,-272.24 427.61,-261.71 410.65,-243 405.07,-236.85 403.52,-228.32 403.77,-220.04"/>
 <polygon fill="black" stroke="black" points="407.27,-220.21 404.87,-209.89 400.31,-219.46 407.27,-220.21"/>
 <text text-anchor="middle" x="696.65" y="-231.8" font-family="Times New Roman,serif" font-size="14.00">((1 x2 + 1 x28106479329266893/9007199254740992 x3 + 8106479329266893/9007199254740992 x3))</text>
 </g>
-<!-- 3cd77468&#45;bb12&#45;11eb&#45;a6ff&#45;40b89af7b7be -->
+<!-- b41e52aa&#45;bb14&#45;11eb&#45;a1d0&#45;40b89af7b7be -->
 <g id="node3" class="node">
-<title>3cd77468&#45;bb12&#45;11eb&#45;a6ff&#45;40b89af7b7be</title>
+<title>b41e52aa&#45;bb14&#45;11eb&#45;a1d0&#45;40b89af7b7be</title>
 <ellipse fill="none" stroke="black" cx="1004.65" cy="-192" rx="39.79" ry="18"/>
 <text text-anchor="middle" x="1004.65" y="-188.3" font-family="Times New Roman,serif" font-size="14.00">65000.0</text>
 </g>
-<!-- 3cd77466&#45;bb12&#45;11eb&#45;9ef4&#45;40b89af7b7be&#45;&gt;3cd77468&#45;bb12&#45;11eb&#45;a6ff&#45;40b89af7b7be -->
+<!-- b41e52a8&#45;bb14&#45;11eb&#45;b791&#45;40b89af7b7be&#45;&gt;b41e52aa&#45;bb14&#45;11eb&#45;a1d0&#45;40b89af7b7be -->
 <g id="edge2" class="edge">
-<title>3cd77466&#45;bb12&#45;11eb&#45;9ef4&#45;40b89af7b7be&#45;&gt;3cd77468&#45;bb12&#45;11eb&#45;a6ff&#45;40b89af7b7be</title>
+<title>b41e52a8&#45;bb14&#45;11eb&#45;b791&#45;40b89af7b7be&#45;&gt;b41e52aa&#45;bb14&#45;11eb&#45;a1d0&#45;40b89af7b7be</title>
 <path fill="none" stroke="black" d="M746.22,-277.67C813.42,-276.35 946.12,-270.27 982.65,-243 990.27,-237.31 995.29,-228.41 998.59,-219.68"/>
 <polygon fill="black" stroke="black" points="1001.94,-220.68 1001.62,-210.09 995.27,-218.57 1001.94,-220.68"/>
 <text text-anchor="middle" x="1098.65" y="-231.8" font-family="Times New Roman,serif" font-size="14.00">((1 x2 + 1 x21 x3 + 1 x30 x4 + 0 x4))</text>
 </g>
-<!-- 3cd77469&#45;bb12&#45;11eb&#45;b1a1&#45;40b89af7b7be -->
+<!-- b41e52ab&#45;bb14&#45;11eb&#45;bdbb&#45;40b89af7b7be -->
 <g id="node4" class="node">
-<title>3cd77469&#45;bb12&#45;11eb&#45;b1a1&#45;40b89af7b7be</title>
+<title>b41e52ab&#45;bb14&#45;11eb&#45;bdbb&#45;40b89af7b7be</title>
 <ellipse fill="none" stroke="black" cx="39.65" cy="-105" rx="39.79" ry="18"/>
 <text text-anchor="middle" x="39.65" y="-101.3" font-family="Times New Roman,serif" font-size="14.00">66500.0</text>
 </g>
-<!-- 3cd77467&#45;bb12&#45;11eb&#45;8241&#45;40b89af7b7be&#45;&gt;3cd77469&#45;bb12&#45;11eb&#45;b1a1&#45;40b89af7b7be -->
+<!-- b41e52a9&#45;bb14&#45;11eb&#45;98ac&#45;40b89af7b7be&#45;&gt;b41e52ab&#45;bb14&#45;11eb&#45;bdbb&#45;40b89af7b7be -->
 <g id="edge3" class="edge">
-<title>3cd77467&#45;bb12&#45;11eb&#45;8241&#45;40b89af7b7be&#45;&gt;3cd77469&#45;bb12&#45;11eb&#45;b1a1&#45;40b89af7b7be</title>
+<title>b41e52a9&#45;bb14&#45;11eb&#45;98ac&#45;40b89af7b7be&#45;&gt;b41e52ab&#45;bb14&#45;11eb&#45;bdbb&#45;40b89af7b7be</title>
 <path fill="none" stroke="black" d="M370.15,-190.23C278.76,-188.06 58.79,-180.32 36.65,-156 30.99,-149.78 30.03,-141.13 31.03,-132.77"/>
 <polygon fill="black" stroke="black" points="34.47,-133.39 33.04,-122.89 27.62,-132 34.47,-133.39"/>
 <text text-anchor="middle" x="290.65" y="-144.8" font-family="Times New Roman,serif" font-size="14.00">((8106479329266893/9007199254740992 x3 + 8106479329266893/9007199254740992 x3))</text>
 </g>
-<!-- 3cd7746a&#45;bb12&#45;11eb&#45;8e7d&#45;40b89af7b7be -->
+<!-- b41e52ac&#45;bb14&#45;11eb&#45;a96f&#45;40b89af7b7be -->
 <g id="node5" class="node">
-<title>3cd7746a&#45;bb12&#45;11eb&#45;8e7d&#45;40b89af7b7be</title>
+<title>b41e52ac&#45;bb14&#45;11eb&#45;a96f&#45;40b89af7b7be</title>
 <ellipse fill="none" stroke="black" cx="570.65" cy="-105" rx="39.79" ry="18"/>
 <text text-anchor="middle" x="570.65" y="-101.3" font-family="Times New Roman,serif" font-size="14.00">63000.0</text>
 </g>
-<!-- 3cd77467&#45;bb12&#45;11eb&#45;8241&#45;40b89af7b7be&#45;&gt;3cd7746a&#45;bb12&#45;11eb&#45;8e7d&#45;40b89af7b7be -->
+<!-- b41e52a9&#45;bb14&#45;11eb&#45;98ac&#45;40b89af7b7be&#45;&gt;b41e52ac&#45;bb14&#45;11eb&#45;a96f&#45;40b89af7b7be -->
 <g id="edge4" class="edge">
-<title>3cd77467&#45;bb12&#45;11eb&#45;8241&#45;40b89af7b7be&#45;&gt;3cd7746a&#45;bb12&#45;11eb&#45;8e7d&#45;40b89af7b7be</title>
+<title>b41e52a9&#45;bb14&#45;11eb&#45;98ac&#45;40b89af7b7be&#45;&gt;b41e52ac&#45;bb14&#45;11eb&#45;a96f&#45;40b89af7b7be</title>
 <path fill="none" stroke="black" d="M449.21,-190.15C479.58,-187.53 520.89,-179.45 548.65,-156 555.73,-150.02 560.61,-141.31 563.94,-132.84"/>
 <polygon fill="black" stroke="black" points="567.32,-133.77 567.17,-123.17 560.68,-131.55 567.32,-133.77"/>
 <text text-anchor="middle" x="643.15" y="-144.8" font-family="Times New Roman,serif" font-size="14.00">((1 x3 + 1 x33/8 x4 + 3/8 x4))</text>
 </g>
-<!-- 3cd7746b&#45;bb12&#45;11eb&#45;b1d3&#45;40b89af7b7be -->
+<!-- b41e52ad&#45;bb14&#45;11eb&#45;a54a&#45;40b89af7b7be -->
 <g id="node6" class="node">
-<title>3cd7746b&#45;bb12&#45;11eb&#45;b1d3&#45;40b89af7b7be</title>
+<title>b41e52ad&#45;bb14&#45;11eb&#45;a54a&#45;40b89af7b7be</title>
 <ellipse fill="none" stroke="black" cx="920.65" cy="-105" rx="39.79" ry="18"/>
 <text text-anchor="middle" x="920.65" y="-101.3" font-family="Times New Roman,serif" font-size="14.00">65000.0</text>
 </g>
-<!-- 3cd77468&#45;bb12&#45;11eb&#45;a6ff&#45;40b89af7b7be&#45;&gt;3cd7746b&#45;bb12&#45;11eb&#45;b1d3&#45;40b89af7b7be -->
+<!-- b41e52aa&#45;bb14&#45;11eb&#45;a1d0&#45;40b89af7b7be&#45;&gt;b41e52ad&#45;bb14&#45;11eb&#45;a54a&#45;40b89af7b7be -->
 <g id="edge5" class="edge">
-<title>3cd77468&#45;bb12&#45;11eb&#45;a6ff&#45;40b89af7b7be&#45;&gt;3cd7746b&#45;bb12&#45;11eb&#45;b1d3&#45;40b89af7b7be</title>
+<title>b41e52aa&#45;bb14&#45;11eb&#45;a1d0&#45;40b89af7b7be&#45;&gt;b41e52ad&#45;bb14&#45;11eb&#45;a54a&#45;40b89af7b7be</title>
 <path fill="none" stroke="black" d="M967.75,-184.89C950.76,-180.05 932.09,-171.4 921.65,-156 917.17,-149.4 915.78,-141.11 915.83,-133.19"/>
 <polygon fill="black" stroke="black" points="919.33,-133.39 916.6,-123.15 912.35,-132.86 919.33,-133.39"/>
 <text text-anchor="middle" x="994.65" y="-144.8" font-family="Times New Roman,serif" font-size="14.00">((1 x3 + 1 x30 x4 + 0 x4))</text>
 </g>
-<!-- 3cd7746c&#45;bb12&#45;11eb&#45;9ddf&#45;40b89af7b7be -->
+<!-- b41e52ae&#45;bb14&#45;11eb&#45;8d17&#45;40b89af7b7be -->
 <g id="node7" class="node">
-<title>3cd7746c&#45;bb12&#45;11eb&#45;9ddf&#45;40b89af7b7be</title>
+<title>b41e52ae&#45;bb14&#45;11eb&#45;8d17&#45;40b89af7b7be</title>
 <ellipse fill="none" stroke="black" cx="1089.65" cy="-105" rx="39.79" ry="18"/>
 <text text-anchor="middle" x="1089.65" y="-101.3" font-family="Times New Roman,serif" font-size="14.00">61000.0</text>
 </g>
-<!-- 3cd77468&#45;bb12&#45;11eb&#45;a6ff&#45;40b89af7b7be&#45;&gt;3cd7746c&#45;bb12&#45;11eb&#45;9ddf&#45;40b89af7b7be -->
+<!-- b41e52aa&#45;bb14&#45;11eb&#45;a1d0&#45;40b89af7b7be&#45;&gt;b41e52ae&#45;bb14&#45;11eb&#45;8d17&#45;40b89af7b7be -->
 <g id="edge6" class="edge">
-<title>3cd77468&#45;bb12&#45;11eb&#45;a6ff&#45;40b89af7b7be&#45;&gt;3cd7746c&#45;bb12&#45;11eb&#45;9ddf&#45;40b89af7b7be</title>
+<title>b41e52aa&#45;bb14&#45;11eb&#45;a1d0&#45;40b89af7b7be&#45;&gt;b41e52ae&#45;bb14&#45;11eb&#45;8d17&#45;40b89af7b7be</title>
 <path fill="none" stroke="black" d="M1034.02,-179.6C1045.67,-173.92 1058.46,-166.08 1067.65,-156 1073.64,-149.42 1078.2,-140.95 1081.56,-132.85"/>
 <polygon fill="black" stroke="black" points="1084.9,-133.91 1085.1,-123.32 1078.34,-131.48 1084.9,-133.91"/>
 <text text-anchor="middle" x="1160.15" y="-144.8" font-family="Times New Roman,serif" font-size="14.00">((1 x3 + 1 x31/2 x4 + 1/2 x4))</text>
 </g>
-<!-- 3cd7746e&#45;bb12&#45;11eb&#45;b2c5&#45;40b89af7b7be -->
+<!-- b41e52b0&#45;bb14&#45;11eb&#45;83b9&#45;40b89af7b7be -->
 <g id="node8" class="node">
-<title>3cd7746e&#45;bb12&#45;11eb&#45;b2c5&#45;40b89af7b7be</title>
+<title>b41e52b0&#45;bb14&#45;11eb&#45;83b9&#45;40b89af7b7be</title>
 <ellipse fill="none" stroke="black" cx="39.65" cy="-18" rx="39.79" ry="18"/>
 <text text-anchor="middle" x="39.65" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">61000.0</text>
 </g>
-<!-- 3cd77469&#45;bb12&#45;11eb&#45;b1a1&#45;40b89af7b7be&#45;&gt;3cd7746e&#45;bb12&#45;11eb&#45;b2c5&#45;40b89af7b7be -->
+<!-- b41e52ab&#45;bb14&#45;11eb&#45;bdbb&#45;40b89af7b7be&#45;&gt;b41e52b0&#45;bb14&#45;11eb&#45;83b9&#45;40b89af7b7be -->
 <g id="edge7" class="edge">
-<title>3cd77469&#45;bb12&#45;11eb&#45;b1a1&#45;40b89af7b7be&#45;&gt;3cd7746e&#45;bb12&#45;11eb&#45;b2c5&#45;40b89af7b7be</title>
+<title>b41e52ab&#45;bb14&#45;11eb&#45;bdbb&#45;40b89af7b7be&#45;&gt;b41e52b0&#45;bb14&#45;11eb&#45;83b9&#45;40b89af7b7be</title>
 <path fill="none" stroke="black" d="M39.65,-86.8C39.65,-75.16 39.65,-59.55 39.65,-46.24"/>
 <polygon fill="black" stroke="black" points="43.15,-46.18 39.65,-36.18 36.15,-46.18 43.15,-46.18"/>
 <text text-anchor="middle" x="202.65" y="-57.8" font-family="Times New Roman,serif" font-size="14.00">((1 x4 + 1 x46004799503160661/36028797018963968 x5))</text>
 </g>
-<!-- 3cd7746f&#45;bb12&#45;11eb&#45;ae74&#45;40b89af7b7be -->
+<!-- b41e52b1&#45;bb14&#45;11eb&#45;9574&#45;40b89af7b7be -->
 <g id="node9" class="node">
-<title>3cd7746f&#45;bb12&#45;11eb&#45;ae74&#45;40b89af7b7be</title>
+<title>b41e52b1&#45;bb14&#45;11eb&#45;9574&#45;40b89af7b7be</title>
 <ellipse fill="none" stroke="black" cx="507.65" cy="-18" rx="39.79" ry="18"/>
 <text text-anchor="middle" x="507.65" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">63000.0</text>
 </g>
-<!-- 3cd7746a&#45;bb12&#45;11eb&#45;8e7d&#45;40b89af7b7be&#45;&gt;3cd7746f&#45;bb12&#45;11eb&#45;ae74&#45;40b89af7b7be -->
+<!-- b41e52ac&#45;bb14&#45;11eb&#45;a96f&#45;40b89af7b7be&#45;&gt;b41e52b1&#45;bb14&#45;11eb&#45;9574&#45;40b89af7b7be -->
 <g id="edge8" class="edge">
-<title>3cd7746a&#45;bb12&#45;11eb&#45;8e7d&#45;40b89af7b7be&#45;&gt;3cd7746f&#45;bb12&#45;11eb&#45;ae74&#45;40b89af7b7be</title>
+<title>b41e52ac&#45;bb14&#45;11eb&#45;a96f&#45;40b89af7b7be&#45;&gt;b41e52b1&#45;bb14&#45;11eb&#45;9574&#45;40b89af7b7be</title>
 <path fill="none" stroke="black" d="M539.3,-93.92C527.6,-88.48 515.49,-80.46 508.65,-69 504.67,-62.34 503.34,-54.23 503.31,-46.51"/>
 <polygon fill="black" stroke="black" points="506.81,-46.57 503.93,-36.37 499.82,-46.14 506.81,-46.57"/>
 <text text-anchor="middle" x="560.15" y="-57.8" font-family="Times New Roman,serif" font-size="14.00">((3/8 x4 + 3/8 x4))</text>
 </g>
-<!-- 3cd77470&#45;bb12&#45;11eb&#45;beca&#45;40b89af7b7be -->
+<!-- b41e52b2&#45;bb14&#45;11eb&#45;88a9&#45;40b89af7b7be -->
 <g id="node10" class="node">
-<title>3cd77470&#45;bb12&#45;11eb&#45;beca&#45;40b89af7b7be</title>
+<title>b41e52b2&#45;bb14&#45;11eb&#45;88a9&#45;40b89af7b7be</title>
 <ellipse fill="none" stroke="black" cx="633.65" cy="-18" rx="39.79" ry="18"/>
 <text text-anchor="middle" x="633.65" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">53000.0</text>
 </g>
-<!-- 3cd7746a&#45;bb12&#45;11eb&#45;8e7d&#45;40b89af7b7be&#45;&gt;3cd77470&#45;bb12&#45;11eb&#45;beca&#45;40b89af7b7be -->
+<!-- b41e52ac&#45;bb14&#45;11eb&#45;a96f&#45;40b89af7b7be&#45;&gt;b41e52b2&#45;bb14&#45;11eb&#45;88a9&#45;40b89af7b7be -->
 <g id="edge9" class="edge">
-<title>3cd7746a&#45;bb12&#45;11eb&#45;8e7d&#45;40b89af7b7be&#45;&gt;3cd77470&#45;bb12&#45;11eb&#45;beca&#45;40b89af7b7be</title>
+<title>b41e52ac&#45;bb14&#45;11eb&#45;a96f&#45;40b89af7b7be&#45;&gt;b41e52b2&#45;bb14&#45;11eb&#45;88a9&#45;40b89af7b7be</title>
 <path fill="none" stroke="black" d="M591.12,-89.56C598.28,-83.77 605.95,-76.66 611.65,-69 616.88,-61.97 621.2,-53.49 624.58,-45.54"/>
 <polygon fill="black" stroke="black" points="627.84,-46.81 628.25,-36.22 621.33,-44.25 627.84,-46.81"/>
 <text text-anchor="middle" x="780.15" y="-57.8" font-family="Times New Roman,serif" font-size="14.00">((1 x4 + 1 x47505999378950827/9007199254740992 x5))</text>
